@@ -1,4 +1,4 @@
 [pome]
 name = "github.com/emela-lang/pome-fixture"
-version = "0.1.1"
+version = "0.2.0-rc.1"
 emela = "0.20.1"
